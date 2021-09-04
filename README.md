@@ -29,11 +29,6 @@ A 20Y/O Flutter and Web developer🎯 from India. I'm passionate about Full-Stac
   </a>
 </div>
 
-### *Activity Graph*
-
-[![ github activity graph](https://activity-graph.herokuapp.com/graph?username=akashsingla786&theme=github&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 
 
 <p align="center">
