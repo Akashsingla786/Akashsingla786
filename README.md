@@ -23,7 +23,8 @@ A 20Y/O Flutter and Web developer🎯 from India. I'm passionate about Full-Stac
 <a href="https://github.com/akashsingla786">
 <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=akashsingla786&layout=compact&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
   </a>
-<a href="https://github.com/remcohalman/github-readme-stats">
+  
+<a href="https://github.com/akashsingla786">
 <img width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashsingla786&layout=compact&theme=radical&custom_title=streak-stats-ty&hide_border=false&layout=compact" />
   </a>
 </div>
