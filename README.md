@@ -36,3 +36,8 @@ A 20Y/O Flutter and Web developer🎯 from India. I'm passionate about Full-Stac
 
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+  
+  
+  <i class="fab fa-instagram"></i>
+  <script src="https://kit.fontawesome.com/226e7924fd.js" crossorigin="anonymous"></script>
