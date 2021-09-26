@@ -39,5 +39,3 @@ A 20Y/O Flutter and Web developer🎯 from India. I'm passionate about Full-Stac
 
   
   
-  <i class="fab fa-instagram"></i>
-  <script src="https://kit.fontawesome.com/226e7924fd.js" crossorigin="anonymous"></script>
