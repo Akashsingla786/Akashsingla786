@@ -30,7 +30,7 @@ A 20Y/O Flutter and Web developer🎯 from India. I'm passionate about Full-Stac
 </div>
 
 
-<i class="fab fa-instagram"></i>
+
 
 
 
