@@ -39,3 +39,17 @@ A 20Y/O  Web developer🎯 from India. I'm passionate about Full-Stack Web Devel
 
   
   
+  <div align="center">
+
+<a href="https://www.linkedin.com/in/akash-singla-873201193/">
+ <img src="https://user-images.githubusercontent.com/63895602/122171991-f32e0980-ce9d-11eb-9027-94f54441d586.png" width="30" height="30">
+</a>
+<a href="https://www.instagram.com/akash03094/">
+ <img src="https://user-images.githubusercontent.com/63895602/122172153-1bb60380-ce9e-11eb-9e36-8acc0bc60ae3.png" width="30" height="30">
+</a>
+<a href="mailto:singlaa264@gmail.com">
+ <img src="https://user-images.githubusercontent.com/63895602/122172355-4d2ecf00-ce9e-11eb-978f-28efcab7afa1.png" width="30" height="30">
+</a>
+<!-- to use these icons, go to www.flaticon.com & copy the png to clipboard -->
+</div>
+  
